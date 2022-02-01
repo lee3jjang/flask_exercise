@@ -1,4 +1,5 @@
 import os
+from config.default import *
 
 BASE_DIR = os.path.dirname(__file__)
 
